@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-slacklib-master.flake = false;
+  inputs.src-slacklib-master.ref   = "refs/heads/master";
   inputs.src-slacklib-master.owner = "ThomasTJdev";
-  inputs.src-slacklib-master.ref   = "master";
   inputs.src-slacklib-master.repo  = "nim_slacklib";
   inputs.src-slacklib-master.type  = "github";
   

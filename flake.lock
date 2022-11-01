@@ -23,11 +23,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1667110639,
-        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
+        "lastModified": 1667199707,
+        "narHash": "sha256-I2Js3Y7gUyVSEXPULHlBoRek4Lh85vnevdS6mdvDNLI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
+        "rev": "ced197be72099edcfa68ebed8b87af7b04851f45",
         "type": "github"
       },
       "original": {
@@ -54,11 +54,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1662254829,
-        "narHash": "sha256-eTvcnsFFKGkxOH6Zn0AasbHE+uEwSIhbnhvQ4X2KiVk=",
+        "lastModified": 1667322678,
+        "narHash": "sha256-z5MxnpKlmE1UxVXsT5SWRvgVAuR1PAsyjmgMhTOe0bw=",
         "owner": "nim-nix-pkgs",
         "repo": "slacklib",
-        "rev": "1a8c036a85b4f863377240b72a71de9751851112",
+        "rev": "e5c3de72e80fff3c4b68b061f7e2103cc7f1e9f6",
         "type": "github"
       },
       "original": {

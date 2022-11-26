@@ -219,11 +219,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668776130,
-        "narHash": "sha256-g+3TnJi7oeexLz9VuclZ2pOz26byrMrUjLm5OgQbt1U=",
+        "lastModified": 1669431381,
+        "narHash": "sha256-an5xDFcxZQLMfOWX3g3hJoez9yOZGDdjq+IrZhPmj3I=",
         "owner": "nim-nix-pkgs",
         "repo": "slacklib",
-        "rev": "d99b3f3e03a43e58d0cbd50c7fa9c1e22c9bd7fd",
+        "rev": "d41b270d51b2d0973a0561e7d65feaae9924e0a3",
         "type": "github"
       },
       "original": {
